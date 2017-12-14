@@ -1,0 +1,153 @@
+<stockquote>
+	<qSymbol>GE</qSymbol>
+	<qDate>2/14/2017</qDate>
+	<qTime>4:00pm</qTime>
+	<qLastSalePrice>30.28</qLastSalePrice>
+	<q52WeekLow>27.36</q52WeekLow>
+	<q52weekHigh>33.00</52WeekHigh>
+	<qTodaysLow>29.92</qTodaysLow>
+	<qTodaysHigh>30.28</qTodaysHigh>
+	<qNetChangePrice>+0.24</qNetChangePrice>
+	<qShareVolumeQty>35028334</qShareVolumeQty>
+	<qTotalOutstandingSharesQty>8795000000</qTotalOutstandingSharesQty>
+</stockquote>
+<stockquote>
+	<qSymbol>MSFT</qSymbol>
+	<qDate>2/14/2017</qDate>
+	<qTime>4:00pm</qTime>
+	<qLastSalePrice>64.57</qLastSalePrice>
+	<qBidPrice>64.50</qBidPrice>
+	<qAskPrice>64.62</qAskPrice>
+	<q52WeekLow>48.04</q52WeekLow>
+	<q52weekHigh>65.91</52WeekHigh>
+	<qTodaysLow>64.02</qTodaysLow>
+	<qTodaysHigh>64.72</qTodaysHigh>
+	<qNetChangePrice>+0.24</qNetChangePrice>
+	<qShareVolumeQty>23108426</qShareVolumeQty>
+	<qTotalOutstandingSharesQty>7727529000</qTotalOutstandingSharesQty>
+</stockquote>
+<stockquote>
+	<qSymbol>KKD</qSymbol>
+	<qDate>7/27/2016</qDate>
+	<qTime>3:00pm</qTime>
+	<qLastSalePrice>21.00</qLastSalePrice>
+	<q52WeekLow>12.90</q52WeekLow>
+	<q52weekHigh>21.75</52WeekHigh>
+	<qNetChangePrice>+0.00</qNetChangePrice>
+	<qShareVolumeQty>0</qShareVolumeQty>
+	<qTotalOutstandingSharesQty>0</qTotalOutstandingSharesQty>
+</stockquote>
+<stockquote>
+	<qSymbol>ADBE</qSymbol>
+	<qDate>2/14/2017</qDate>
+	<qTime>4:00pm</qTime>
+	<qLastSalePrice>117.58</qLastSalePrice>
+	<qBidPrice>110.69</qBidPrice>
+	<qAskPrice>120.19</qAskPrice>
+	<q52WeekLow>78.54</q52WeekLow>
+	<q52weekHigh>117.94</52WeekHigh>
+	<qTodaysLow>116.67</qTodaysLow>
+	<qTodaysHigh>117.79</qTodaysHigh>
+	<qNetChangePrice>-0.07</qNetChangePrice>
+	<qShareVolumeQty>1556662</qShareVolumeQty>
+	<qTotalOutstandingSharesQty>494078000</qTotalOutstandingSharesQty>
+</stockquote>
+<stockquote>
+	<qSymbol>BA</qSymbol>
+	<qDate>2/14/2017</qDate>
+	<qTime>4:00pm</qTime>
+	<qLastSalePrice>168.50</qLastSalePrice>
+	<q52WeekLow>112.51</q52WeekLow>
+	<q52weekHigh>170.00</52WeekHigh>
+	<qTodaysLow>167.22</qTodaysLow>
+	<qTodaysHigh>168.80</qTodaysHigh>
+	<qNetChangePrice>+0.47</qNetChangePrice>
+	<qShareVolumeQty>2580278</qShareVolumeQty>
+	<qTotalOutstandingSharesQty>612478000</qTotalOutstandingSharesQty>
+</stockquote>
+<stockquote>
+	<qSymbol>AMZN</qSymbol>
+	<qDate>2/14/2017</qDate>
+	<qTime>4:00pm</qTime>
+	<qLastSalePrice>836.39</qLastSalePrice>
+	<qBidPrice>835.65</qBidPrice>
+	<qAskPrice>836.35</qAskPrice>
+	<q52WeekLow>515.35</q52WeekLow>
+	<q52weekHigh>847.21</52WeekHigh>
+	<qTodaysLow>831.45</qTodaysLow>
+	<qTodaysHigh>838.31</qTodaysHigh>
+	<qNetChangePrice>-0.14</qNetChangePrice>
+	<qShareVolumeQty>2792442</qShareVolumeQty>
+	<qTotalOutstandingSharesQty>477000000</qTotalOutstandingSharesQty>
+</stockquote>
+<stockquote>
+	<qSymbol>DIS</qSymbol>
+	<qDate>2/14/2017</qDate>
+	<qTime>4:02pm</qTime>
+	<qLastSalePrice>110.33</qLastSalePrice>
+	<q52WeekLow>89.61</q52WeekLow>
+	<q52weekHigh>111.99</52WeekHigh>
+	<qTodaysLow>109.53</qTodaysLow>
+	<qTodaysHigh>110.33</qTodaysHigh>
+	<qNetChangePrice>+0.68</qNetChangePrice>
+	<qShareVolumeQty>4768695</qShareVolumeQty>
+	<qTotalOutstandingSharesQty>1581248000</qTotalOutstandingSharesQty>
+</stockquote>
+<stockquote>
+	<qSymbol>ORCL</qSymbol>
+	<qDate>2/14/2017</qDate>
+	<qTime>4:01pm</qTime>
+	<qLastSalePrice>41.10</qLastSalePrice>
+	<q52WeekLow>35.77</q52WeekLow>
+	<q52weekHigh>42.00</52WeekHigh>
+	<qTodaysLow>40.75</qTodaysLow>
+	<qTodaysHigh>41.17</qTodaysHigh>
+	<qNetChangePrice>+0.01</qNetChangePrice>
+	<qShareVolumeQty>9622961</qShareVolumeQty>
+	<qTotalOutstandingSharesQty>4102353000</qTotalOutstandingSharesQty>
+</stockquote>
+<stockquote>
+	<qSymbol>INTC</qSymbol>
+	<qDate>2/14/2017</qDate>
+	<qTime>4:00pm</qTime>
+	<qLastSalePrice>35.93</qLastSalePrice>
+	<qBidPrice>35.86</qBidPrice>
+	<qAskPrice>35.92</qAskPrice>
+	<q52WeekLow>28.38</q52WeekLow>
+	<q52weekHigh>38.45</52WeekHigh>
+	<qTodaysLow>35.53</qTodaysLow>
+	<qTodaysHigh>35.96</qTodaysHigh>
+	<qNetChangePrice>+0.13</qNetChangePrice>
+	<qShareVolumeQty>25734801</qShareVolumeQty>
+	<qTotalOutstandingSharesQty>4735000000</qTotalOutstandingSharesQty>
+</stockquote>
+<stockquote>
+	<qSymbol>STX</qSymbol>
+	<qDate>2/14/2017</qDate>
+	<qTime>4:00pm</qTime>
+	<qLastSalePrice>47.85</qLastSalePrice>
+	<qBidPrice>47.88</qBidPrice>
+	<qAskPrice>47.99</qAskPrice>
+	<q52WeekLow>18.42</q52WeekLow>
+	<q52weekHigh>48.14</52WeekHigh>
+	<qTodaysLow>47.37</qTodaysLow>
+	<qTodaysHigh>48.14</qTodaysHigh>
+	<qNetChangePrice>+0.05</qNetChangePrice>
+	<qShareVolumeQty>4105112</qShareVolumeQty>
+	<qTotalOutstandingSharesQty>295176000</qTotalOutstandingSharesQty>
+</stockquote>
+<stockquote>
+	<qSymbol>WDC</qSymbol>
+	<qDate>2/14/2017</qDate>
+	<qTime>4:00pm</qTime>
+	<qLastSalePrice>76.41</qLastSalePrice>
+	<qBidPrice>76.21</qBidPrice>
+	<qAskPrice>76.45</qAskPrice>
+	<q52WeekLow>34.99</q52WeekLow>
+	<q52weekHigh>81.67</52WeekHigh>
+	<qTodaysLow>75.98</qTodaysLow>
+	<qTodaysHigh>77.47</qTodaysHigh>
+	<qNetChangePrice>-2.06</qNetChangePrice>
+	<qShareVolumeQty>5390393</qShareVolumeQty>
+	<qTotalOutstandingSharesQty>288070000</qTotalOutstandingSharesQty>
+</stockquote>
